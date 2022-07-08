@@ -1,6 +1,6 @@
 # HARDHAT-CHAIN-ID
 
-## Issue: Returns 31337 on mainnet fork. 
+## Issue: Returns 31337 on mainnet fork. 
 
 ### Reproduction: 
 
